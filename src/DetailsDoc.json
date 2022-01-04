@@ -1,0 +1,36 @@
+[
+    {
+        "id" :1,
+        "fullName" : "Prateek Singh",
+        "age" : "23",
+        "course" : "MERN",
+        "batch" : "Sept",
+        "change" : "Edit"
+    },
+    {
+        " id" :2,
+        "fullName" : "Anand Sharma",
+        "age" : "34",
+        "course" : "MERN",
+        "batch" : "Sept",
+        "change" : "Edit"
+    },
+    {
+        "id" :3,
+        "fullName" : "Kamal gupta",
+        "age" : "34",
+        "course" : "MERN",
+        "batch" : "Sept",
+        "change" : "Edit"
+    },
+    {
+        "id" :4,
+        "fullName" : "Sunny",
+        "age" : "34",
+        "course" : "MERN",
+        "batch" : "Sept",
+        "change" : "Edit"
+    }
+    
+   
+]
